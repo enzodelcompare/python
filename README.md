@@ -8,6 +8,6 @@
   </a>
 </p>
 
-![Enzo Delcompare](https://github.com/enzodelcompare/enzodelcompare/blob/master/imagens/projetos_ds.jpeg)
+![Enzo Delcompare](https://github.com/enzodelcompare/programacao_python/blob/master/imagens/python_topo.png)
 
 <br>
