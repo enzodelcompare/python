@@ -12,4 +12,6 @@
 
 <br>
 
-🎯 Desenvolvimento de habilidades com programação, utilizando a linguagem Python
+# Olá, seja bem-vindo!
+
+Nesse repositório, você encontrará todo o conteúdo apresentado em nossos encontros!
