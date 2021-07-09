@@ -12,6 +12,6 @@
 
 <br>
 
-# Olá, seja bem-vindo!
+# Olá, seja bem-vindo(a)!
 
 Nesse repositório, você encontrará todo o conteúdo apresentado em nossos encontros!
