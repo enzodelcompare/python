@@ -11,3 +11,5 @@
 ![Enzo Delcompare](https://github.com/enzodelcompare/programacao_python/blob/master/imagens/python_topo.png)
 
 <br>
+
+🎯 Desenvolvimento de habilidades com programação, utilizando a linguagem Python
