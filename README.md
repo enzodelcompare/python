@@ -19,7 +19,7 @@ Nesse repositório, você encontrará todo o conteúdo apresentado em nossos enc
 <br>
 
 - **Conteúdo dos Encontros** <a href="https://github.com/enzodelcompare/programacao_python/tree/master/conteudo">[conteudo]</a>
-    - Aqui, você encontrará todo o conteúdo visto em nosos encontros. Os conteúdos serão publicados após o término da nossa call.
+    - Aqui, você encontrará todo o conteúdo visto em nosos encontros. Os materiais serão publicados após o término da nossa call.
 
 - **Exercícios Porpostos* <a href="https://github.com/enzodelcompare/programacao_python/tree/master/conteudo">[exercicios]</a>
     - Aqui, você encontrará os exercícíos que realizamos em nosso encontro.
