@@ -26,6 +26,6 @@ Nesse repositório, você encontrará todo o conteúdo apresentado em nossos enc
 
 <br>
 
-## Livro(s) Recomendado(s)
+### Livro(s) Recomendado(s)
 
 - **Introdução à Programação com Python: Algoritmos e Lógica de Programação Para Iniciantes** <a href="https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Programa%C3%A7%C3%A3o-com-Python-Algoritmos/dp/8575227181/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=python&qid=1625840613&sr=8-2">[Livro de Python]</a>
