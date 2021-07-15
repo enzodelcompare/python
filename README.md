@@ -29,3 +29,11 @@ Nesse repositório, você encontrará todo o conteúdo apresentado em nossos enc
 ### Livro(s) Recomendado(s)
 
 - **Introdução à Programação com Python: Algoritmos e Lógica de Programação Para Iniciantes** <a href="https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Programa%C3%A7%C3%A3o-com-Python-Algoritmos/dp/8575227181/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=python&qid=1625840613&sr=8-2">[Livro de Python]</a>
+
+<br>
+
+### Material Complementar
+
+- **Curo de Python 3 - Mundo 1: Fundamentos** <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6">[Curso de Python]</a>
+- **Curo de Python 3 - Mundo 2: Estruturas de Controle** <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye">[Curso de Python]</a>
+- **Curo de Python 3 - Mundo 3: Estruturas Compostas** <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH">[Curso de Python]</a>
